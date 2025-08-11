@@ -11,7 +11,10 @@ produtos = {
     "Feijão": 8.5,
     "Macarrão": 5.0,
     "Leite": 4.5,
-    "Pão": 7.0
+    "Pão": 7.0,
+    "Miojo": 1.5,
+    "Ovo": 10.0,
+    "Carne": 50.0
 }
 
 carrinho = []
